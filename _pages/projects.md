@@ -1,10 +1,10 @@
 ---
 layout: page
-title: projects
+title: proyectos
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Una colección de los desarrollos y prototipos que van avanzando en la configuración de este proyecto sobre los rituales de muerte.
 nav: true
-display_categories: [work, fun]
+#display_categories: [work, fun]
 horizontal: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: proyecto 3
+description: Animación en collage sobre la ritualización de víctimas del conflicto
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
